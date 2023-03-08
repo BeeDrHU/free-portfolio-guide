@@ -4,19 +4,19 @@ If you want the official documentation from github [click here](https://docs.git
 
 ## Table of Contents
 
-1. [Project Guidelines](## Project-Guidelines)
+1. [Project Guidelines](##Project-Guidelines)
 
-2. [Get Started](## Start-a-New-Repository)
+2. [Get Started](##Start-a-New-Repository)
 
-3. [Deploy Your Site](## Creating-your-Site)
+3. [Deploy Your Site](##Creating-your-Site)
 
-4. [Add Content to Your Site](## Adding-Content-to-the-Site)
+4. [Add Content to Your Site](##Adding-Content-to-the-Site)
 
-5. [Guide to Using Markdown](## Guide-to-using-Markdown)
+5. [Guide to Using Markdown](##Guide-to-using-Markdown)
 
-6. [Adding a Theme to Your Site](### Add-a-Jekyll-Theme-to-Your-Site)
+6. [Adding a Theme to Your Site](###Add-a-Jekyll-Theme-to-Your-Site)
 
-## Project Guidelines
+## Project Guidelines {##Project-Guidelines}
 
 The purpose of this project is to gather all of your hard work and expertise from the last year, and turn it into a online portfolio/resume.
 
@@ -37,7 +37,7 @@ You can put as much effort into this website as you would like. If you have proj
 
 **When ready to submit** simply send me the link to your portfolio so I can review it. Additionally, our final day of class will be a presentation day for portfolios.
 
-## Start a New Repository
+## Start a New Repository {##Start-a-New-Repository}
 I would recommend starting a new repository for your website because if you are using the free pages that github provides your website domain will be attached to your username and then you can link any files found on your account to your website.
 
 **Create a repository just for the website**
@@ -54,7 +54,7 @@ I would recommend starting a new repository for your website because if you are 
 
 6. Click **Create Repository**
 
-## Creating your Site
+## Creating your Site {##Creating-your-Site}
 Now that you have the repository for your site, we need to activate github pages.
 
 1. Navigate to the repository you just created. 
@@ -69,7 +69,7 @@ Now that you have the repository for your site, we need to activate github pages
 
 6. Save the new settings and wait for the website to render. Refresh the page periodically and when it's finished rendering, you'll find a link at the top of the page that says **Your site is live at** https://username.github.io/.
 
-## Adding Content to the site
+## Adding Content to the site {##Adding-Content-to-the-Site}
 That's all it takes to acitvate your site. You now have a completely customizable website for you to build your portfolio on. 
 
 To add content to your website, you can either use html/css/js or jekyll markdown files. Each has positives and negatives and it is 100% a matter of personal preference. 
@@ -103,7 +103,7 @@ For example, let's say I have uploaded an image into my github pages repository 
 
 [Link Text](https://github.com/myusername/myrepo/blob/main/example.md)
 
-## Guide to using Markdown
+## Guide to using Markdown {##Guide-to-using-Markdown}
 
 Github pages uses a static website generator called Jekyll Markdown, which comes from the Ruby programming language. 
 
@@ -113,7 +113,7 @@ If you choose to write your website in markdown here's a [cheat sheet](https://i
 
 Also, know that you can mix and match your html/css/js and markdown. If you take a look at my [README](https://github.com/BeeDrHU/beedrhu.github.io/blob/4c28f183a7d92d6707729705cab36f13ef50197a/README.md) you can see that I have html and css at the bottom of my page to include a contact form.
 
-### Add a Jekyll Theme to Your Site
+### Add a Jekyll Theme to Your Site {###Add-a-Jekyll-Theme-to-Your-Site}
 
 If you decide to use markdown, Github has free themes that you can use to style your site. Check them out [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll).
 

@@ -113,7 +113,7 @@ Github pages uses a static website generator called Jekyll Markdown, which comes
 
 Markdown files are very common in programming, other languages like R also support them, and other platforms like Jupyter notebooks are based entirely on the concept of markdown files.
 
-If you choose to write your website in markdown here's a [cheat sheet](https://itopaloglu83.github.io/Jekyll-Markdown-Cheat-Sheet/).
+If you choose to write your website in markdown here's a [cheat sheet](https://itopaloglu83.github.io/Jekyll-Markdown-Cheat-Sheet/) and a [basic syntax guide](https://www.markdownguide.org/basic-syntax/).
 
 Also, know that you can mix and match your html/css/js and markdown. If you take a look at my [README](https://github.com/BeeDrHU/beedrhu.github.io/blob/4c28f183a7d92d6707729705cab36f13ef50197a/README.md) you can see that I have html and css at the bottom of my page to include a contact form.
 

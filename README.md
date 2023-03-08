@@ -28,11 +28,11 @@ You can put as much effort into this website as you would like. If you have proj
 1. Website hosted on github and publicly accessible.
 2. Website must have a style or theme. **Can't be generic html/text**.
 3. Website must have the following sections: 
-  *introduction section
-  *about me
-  *experience/work/school/certifications
-  *projects
-  *contact me
+  - introduction section
+  - about me
+  - experience/work/school/certifications
+  - projects
+  - contact me
 4. Your website must contain **at least** 3 Python projects. They can be projects you've done privately or projects from in class.
 
 **This project is worth 25% of your grade** please take it seriously. As always, if you have any questions feel free to contain me via email or our discord server.

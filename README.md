@@ -1,5 +1,3 @@
-# Free Portfolio Website
-
 # Welcome to my guide on building a free website.
 
 If you want the official documentation from github [click here](https://docs.github.com/en/pages/getting-started-with-github-pages)

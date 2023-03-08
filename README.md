@@ -1,6 +1,8 @@
-# Build a Free Website with Github Pages
+# Welcome to my guide on building a free website.
 
 If you want the official documentation from github [click here](https://docs.github.com/en/pages/getting-started-with-github-pages)
+
+Before you start, check out my portfolio [here](https://beedrhu.github.io/)
 
 ## Table of Contents
 

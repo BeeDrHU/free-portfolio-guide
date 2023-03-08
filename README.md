@@ -3,11 +3,17 @@
 If you want the official documentation from github [click here](https://docs.github.com/en/pages/getting-started-with-github-pages)
 
 ##Table of Contents
+
 [1. Project Guidelines](## Project Guidelines)
+
 [2. Get Started](## Start a New Repository)
+
 [3. Deploy Your Site](## Creating your Site)
+
 [4. Add Content to Your Site](## Adding Content to the Site)
+
 [5. Guide to Using Markdown](## Guide to using Markdown)
+
 [6. Adding a Theme to Your Site](### Add a Jekyll Theme to Your Site)
 
 ## Project Guidelines
